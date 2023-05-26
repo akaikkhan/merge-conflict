@@ -2,7 +2,7 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  //changes made from feature1 branch
 }
 
 Initial Security()
