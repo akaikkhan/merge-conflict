@@ -7,7 +7,7 @@ Initial Function()
 
 Initial Security()
 {
- //security patches release
+ //security patches released
 }
 
 
